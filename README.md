@@ -4,7 +4,7 @@ A sublime text 2/3 plugin to show an icon in the gutter area indicating whether 
 
 ### Screenshot:
 
-![screenshot](https://raw.github.com/jisaacks/GitGutter/master/screenshot.png)
+![screenshot](https://raw.github.com/tonylegrone/GitGutter/custom/screenshot.png)
 
 ### Installation
 
